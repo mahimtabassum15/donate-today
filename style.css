@@ -94,3 +94,67 @@
 }
 /* <!-- Donate Section END  --> */
 
+/* Donation plan Section Start  */
+.donation-plan{
+    max-width: 65%;
+    margin: 0 auto;
+}
+.donation-plan .donation-content{
+    text-align: center;
+}
+.donation-plan .donation-content h1{
+    font-size: 35px;
+    padding: 15px 0;
+}
+.donation-plan .donation-content p{
+    font-size: 17px;
+    color: rgb(122, 119, 119);
+    padding: 0 0 25px;
+}
+.donation-plan .donation{
+    display: flex;
+    justify-content: space-between;
+}
+.donation-plan .donation .div1{
+    background-color: rgba(144, 243, 210, 0.589);
+    padding: 40px 25px 40px 15px;
+}
+
+.donation-plan .donation .div1 h3{
+    padding: 10px 0;
+    font-weight: bolder;
+    font-size: 22px;
+}
+.donation-plan .donation .div1 p{
+    font-size: 16px;
+    color: rgb(59, 57, 57);
+}
+.donation-plan .donation .div2{
+    background-color: rgba(243, 212, 243, 0.801);
+    padding: 40px 25px 40px 15px;
+}
+
+.donation-plan .donation .div2 h3{
+    padding: 10px 0;
+    font-weight: bolder;
+    font-size: 22px;
+}
+.donation-plan .donation .div2 p{
+    font-size: 16px;
+    color: rgb(59, 57, 57);
+}
+.donation-plan .donation .div3{
+    background-color: rgba(236, 233, 56, 0.637);
+    padding: 40px 25px 40px 15px;
+}
+
+.donation-plan .donation .div3 h3{
+    padding: 10px 0;
+    font-weight: bolder;
+    font-size: 22px;
+}
+.donation-plan .donation .div3 p{
+    font-size: 16px;
+    color: rgb(59, 57, 57);
+}
+/* Donation plan Section END  */
