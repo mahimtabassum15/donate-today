@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* <!-- Header Section Start  --> */
+
+.banner{
+    text-align: center;
+    background-image: url(./images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 80px ;
+    background-position: center;
+}
+.banner h1{
+    color: white;
+}
+.banner>p{
+    color: aliceblue;
+    margin: 25px 0;
+}
+.banner>button{
+    background-color: orangered;
+    padding: 10px 20px;
+    font-weight: 800;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* <!-- Header Section END  --> */
+
+/* <!-- Donate Section Start  --> */
+
+.donate-part{
+    text-align: center;
+    padding: 50px 70px;
+    max-width: 45%;
+    margin: 0 auto;
+    /* background-color: aqua; */
+}
+
+.donate-part .content h1{
+    font-size: 35px;
+    padding: 15px 0;
+}
+.donate-part .content p{
+    font-size: 17px;
+    color: rgb(122, 119, 119);
+    padding: 0 0 25px;
+}
+
+.donate-part .donation{
+    display: flex;
+    justify-content: space-between;
+}
+
+.donate-part .donation h1{
+    color: rgb(71, 69, 69);
+    font-weight: bolder;
+}
+
+.donate-part .donation .div1 , .div3 , .div4 , .div5{
+    background-color: aliceblue;
+    padding: 20px 15px;
+}
+.donate-part .donation .div2{
+    border: 2px solid orangered;
+    background-color: rgba(247, 181, 179, 0.363);
+    padding: 20px 15px;
+}
+
+.donate-part .donation .div2 h1{
+    color: orangered;
+    font-weight: bolder;
+}
+
+.donate-part p{
+    font-size: 16px;
+    color: rgb(122, 119, 119);
+    padding: 35px  0 10px;
+}
+
+.donate-part button{
+    background-color: orangered;
+    padding: 10px 20px;
+    font-weight: 800;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    margin: 15px 0 0 ;
+}
+/* <!-- Donate Section END  --> */
+
