@@ -158,3 +158,76 @@
     color: rgb(59, 57, 57);
 }
 /* Donation plan Section END  */
+
+/* <!-- Donation Article Section Start  --> */
+.donation-article{
+    max-width: 65%;
+    margin: 0 auto;
+    padding: 25px 0 50px 0;
+}
+
+.donation-article .article1{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 0;
+}
+.donation-article .article1 .content1{
+    max-width: 50%;
+}
+.donation-article .article1 .content1>h1{
+    font-size: 40px;
+}
+.donation-article .article1 .content1>p{
+    font-size: 17px;
+    color: rgb(41, 39, 39);
+    padding: 10px 0 25px;
+}
+.donation-article .article1 .content1>button{
+    background-color: orangered;
+    padding: 10px 20px;
+    font-weight: 800;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+}
+.donation-article .article1 .img{
+    max-width: 50%;
+}
+.donation-article .article1 .img>img{
+    max-width: 95%;
+}
+
+.donation-article .article2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.donation-article .article2 .content2{
+    max-width: 50%;
+}
+.donation-article .article2 .content2>h1{
+    font-size: 40px;
+}
+.donation-article .article2 .content2>p{
+    font-size: 17px;
+    color: rgb(41, 39, 39);
+    padding: 10px 0 25px;
+}
+.donation-article .article2 .content2>button{
+    background-color: orangered;
+    padding: 10px 20px;
+    font-weight: 800;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+}
+.donation-article .article2 .img{
+    max-width: 50%;
+}
+.donation-article .article2 .img>img{
+    max-width: 95%;
+    margin-top: 45px;
+}
+/* <!-- Donation Article Section END  --> */
