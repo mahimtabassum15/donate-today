@@ -231,3 +231,59 @@
     margin-top: 45px;
 }
 /* <!-- Donation Article Section END  --> */
+
+/* <!-- Subscription Section Start  --> */
+
+.subscription{
+    text-align: center;
+    padding: 25px 0;
+}
+
+.subscription>h1{
+    font-size: 35px;
+}
+
+.subscription>p{
+    font-size: 17px;
+    color: rgb(41, 39, 39);
+    padding: 20px 0 60px;
+}
+
+.subscription .subs{
+    background-color: rgb(236, 211, 173);
+    max-width: 40%;
+    margin: 0 auto;
+    padding: 40px;
+}
+.subscription .subs input{
+    background-color: rgb(212, 204, 202);
+    padding: 10px 20px;
+    font-weight: 800;
+    color: white;
+    font-size: 15px;
+    border: none;
+}
+.subscription .subs button{
+    background-color: orangered;
+    padding: 10px 20px;
+    font-weight: 800;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+}
+/* <!-- Subscription Section END  --> */
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 25px 0;
+    margin: 35px 0 0 0;
+}
+footer>h1{
+    color: orangered;
+    padding: 15px 0;
+}
+footer>h4{
+    color: aliceblue;
+}
